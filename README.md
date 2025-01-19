@@ -38,6 +38,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,mongodb,nextjs,mysql" /><br>
 </div>
 <br/>
+<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
